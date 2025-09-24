@@ -62,7 +62,3 @@ Saída:
 * [ ] Parallel tem branches com `"End": true`.
 * [ ] Estados finais são `FIM_Sucesso` e `FIM_Falha`.
 * [ ] Passou no `asl-validator` e no `scripts/lint-asl.js`.
-
-```
-
----
